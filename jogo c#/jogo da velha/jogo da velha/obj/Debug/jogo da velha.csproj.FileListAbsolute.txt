@@ -1,0 +1,24 @@
+C:\Users\danilo\Documents\jogo c#\jogo da velha\jogo da velha\bin\Debug\jogo da velha.exe.config
+C:\Users\danilo\Documents\jogo c#\jogo da velha\jogo da velha\bin\Debug\jogo da velha.exe
+C:\Users\danilo\Documents\jogo c#\jogo da velha\jogo da velha\bin\Debug\jogo da velha.pdb
+C:\Users\danilo\Documents\jogo c#\jogo da velha\jogo da velha\obj\Debug\jogo da velha.csprojAssemblyReference.cache
+C:\Users\danilo\Documents\jogo c#\jogo da velha\jogo da velha\obj\Debug\jogo_da_velha.Form1.resources
+C:\Users\danilo\Documents\jogo c#\jogo da velha\jogo da velha\obj\Debug\jogo_da_velha.Properties.Resources.resources
+C:\Users\danilo\Documents\jogo c#\jogo da velha\jogo da velha\obj\Debug\jogo da velha.csproj.GenerateResource.cache
+C:\Users\danilo\Documents\jogo c#\jogo da velha\jogo da velha\obj\Debug\jogo da velha.csproj.CoreCompileInputs.cache
+C:\Users\danilo\Documents\jogo c#\jogo da velha\jogo da velha\obj\Debug\jogo da velha.exe
+C:\Users\danilo\Documents\jogo c#\jogo da velha\jogo da velha\obj\Debug\jogo da velha.pdb
+D:\jogo c#\jogo da velha\jogo da velha\bin\Debug\jogo da velha.exe.config
+D:\jogo c#\jogo da velha\jogo da velha\bin\Debug\jogo da velha.exe
+D:\jogo c#\jogo da velha\jogo da velha\bin\Debug\jogo da velha.pdb
+D:\jogo c#\jogo da velha\jogo da velha\obj\Debug\jogo_da_velha.Form1.resources
+D:\jogo c#\jogo da velha\jogo da velha\obj\Debug\jogo_da_velha.Properties.Resources.resources
+D:\jogo c#\jogo da velha\jogo da velha\obj\Debug\jogo da velha.csproj.GenerateResource.Cache
+D:\jogo c#\jogo da velha\jogo da velha\obj\Debug\jogo da velha.exe
+D:\jogo c#\jogo da velha\jogo da velha\obj\Debug\jogo da velha.pdb
+E:\executaveis liberados\jogo c#\jogo da velha\jogo da velha\obj\Debug\jogo da velha.csprojResolveAssemblyReference.cache
+E:\executaveis liberados\jogo c#\jogo da velha\jogo da velha\obj\Debug\jogo_da_velha.Form1.resources
+E:\executaveis liberados\jogo c#\jogo da velha\jogo da velha\obj\Debug\jogo_da_velha.Properties.Resources.resources
+E:\executaveis liberados\jogo c#\jogo da velha\jogo da velha\obj\Debug\jogo da velha.csproj.GenerateResource.Cache
+E:\executaveis liberados\jogo c#\jogo da velha\jogo da velha\obj\Debug\jogo da velha.exe
+E:\executaveis liberados\jogo c#\jogo da velha\jogo da velha\obj\Debug\jogo da velha.pdb
